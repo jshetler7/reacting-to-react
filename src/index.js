@@ -5,4 +5,4 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 const root = createRoot(document.getElementById('root'));
-root.render(<App loaded={true} />);
+root.render(<App />);
